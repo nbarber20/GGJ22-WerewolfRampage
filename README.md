@@ -1,4 +1,4 @@
-# GGJ2022
+# Werewolf Rampage
  
 *This game is for the Commodore 64. The .prg file will only execute on a Commodore 64 computer or in an emulator*
 
