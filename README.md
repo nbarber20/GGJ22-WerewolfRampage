@@ -1,7 +1,8 @@
 ### Werewolf Rampage
 
 This project is for the 2022 Global Game Jam
-https://v3.globalgamejam.org/2022/games/werewolf-rampage-0
+
+GGJ website entry: https://v3.globalgamejam.org/2022/games/werewolf-rampage-0
 
 *This game is for the Commodore 64. The .prg file will only execute on a Commodore 64 computer or in an emulator*
 
