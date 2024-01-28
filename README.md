@@ -1,5 +1,8 @@
-# Werewolf Rampage
- 
+### Werewolf Rampage
+
+This project is for the 2022 Global Game Jam
+https://v3.globalgamejam.org/2022/games/werewolf-rampage-0
+
 *This game is for the Commodore 64. The .prg file will only execute on a Commodore 64 computer or in an emulator*
 
 Werewolf Rampage is a two player game where you play as a person afflicted with lycanthropy. The first player plays as the human side of the person, and must hide a key in a piece of furniture. After time runs out they will turn into a werewolf and player two will take the controller. If they find the key in the allotted time limit they will escape and eat people, meaning player one looses.
